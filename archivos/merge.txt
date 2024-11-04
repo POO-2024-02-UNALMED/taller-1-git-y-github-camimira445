@@ -1,3 +1,6 @@
 Jesús Miranda
 Edad= 21
 aprender los conceptos de la poo y enriquecer mi conocimiento
+Porque la carpeta ya no esta vacia
+
+Es importante porque puede generar conflictos
